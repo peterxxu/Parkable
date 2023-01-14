@@ -25,4 +25,4 @@ Then run react in src folder:
 https://usc.zoom.us/rec/play/tXIQ1pKRet-dZpTOeQ6k_WHaeN1bMPr07EngUg550nZVQ4FvQZJrhY7_QzmBZB8F7H6yCuhIsPlNy-VS.9nCx7NqKHfGaYcYx?autoplay=true&startTime=1670531771000
 
 
-![Alt text] (https://github.com/peterxxu/parkable/blob/main/Homepage.png)
+![alt text] (https://github.com/peterxxu/parkable/blob/main/Homepage.png?raw=true)
