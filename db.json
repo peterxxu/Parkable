@@ -1,0 +1,180 @@
+{
+  "parkingLots": [
+    {
+      "id": "0",
+      "title": "Structure 9",
+      "Address": "1136 4th St",
+      "lat": 34.019575,
+      "lng": -118.499378,
+      "HourlyCost": "$2",
+      "DailyCost": "$7.20",
+      "MonthlyCost": "$72.00",
+      "Spaces": "224",
+      "Rating": 4.125,
+      "NumRating": 8,
+      "img": "https://www.degemmill.com/content/uploads/2019/01/2306-1.jpeg"
+    },
+    {
+      "id": "1",
+      "title": "Friar & Sylmar Parking Garage",
+      "Address": "14401 Friar St",
+      "lat": 34.185745,
+      "lng": -118.447308,
+      "HourlyCost": "$2",
+      "DailyCost": "$7.20",
+      "MonthlyCost": "$72.00",
+      "Spaces": "237",
+      "Rating": 3.5217391304347827,
+      "NumRating": 46,
+      "img": "https://www.travelinusa.us/wp-content/uploads/sites/3/2017/09/Dove-parcheggiare-a-Los-Angeles.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Chandler & Tujunga Parking Lot",
+      "Address": "11320 Chandler Blvd",
+      "lat": 34.167963,
+      "lng": -118.377824,
+      "HourlyCost": "$5",
+      "DailyCost": "$20.50",
+      "MonthlyCost": "N/A",
+      "Spaces": "46",
+      "Rating": 2.3333333333333335,
+      "NumRating": 9,
+      "img": "https://www.planetizen.com/files/images/los-angeles-parking-lot-crop.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Friar & Van Nuys Parking Lot",
+      "Address": "14521 Friar St",
+      "lat": 34.185837,
+      "lng": -118.449261,
+      "HourlyCost": "$1",
+      "DailyCost": "$5.00",
+      "MonthlyCost": "$49.50",
+      "Spaces": "76",
+      "Rating": 3,
+      "NumRating": 2,
+      "img": "https://blog.fentress.com/hubfs/Blog%20Images%20and%20Materials/Keith_School%20Parking/School%20Parking_Facebook.png"
+    },
+    {
+      "id": "4",
+      "title": "Pisani & Venice Parking Lot",
+      "Address": "2010 S Pisani Pl",
+      "lat": 33.991495,
+      "lng": -118.458637,
+      "HourlyCost": "$0",
+      "DailyCost": "$0",
+      "MonthlyCost": "N/A",
+      "Spaces": "53",
+      "Rating": 4.111111111111111,
+      "NumRating": 9,
+      "img": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/06/p-1-90645900-parking-reform-could-reenergize-downtowns-hereand8217s-what-happened-when-buffalo-changed-its-zoning-rules.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Cochran & Wilshire Parking Lot",
+      "Address": "728 S Cochran Ave",
+      "lat": 34.061702,
+      "lng": -118.349168,
+      "HourlyCost": "$3",
+      "DailyCost": "$4.00/10 hrs",
+      "MonthlyCost": "$30.00",
+      "Spaces": "41",
+      "Rating": 3.6666666666666665,
+      "NumRating": 12,
+      "img": "https://blackhawkpaving.com/wp-content/uploads/2021/03/parking-lot-striping-1.jpeg"
+    },
+    {
+      "id": "6",
+      "title": "California & Electric Parking Lot",
+      "Address": "1411 Electric Ave",
+      "lat": 33.990904,
+      "lng": -118.465606,
+      "HourlyCost": "$5",
+      "DailyCost": "$50",
+      "MonthlyCost": "N/A",
+      "Spaces": "29",
+      "Rating": 0,
+      "NumRating": 0,
+      "img": "https://joesautoparks.com/wp-content/uploads/2018/02/Benefits-of-Parking.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Remmet & Sherman Way East Parking Lot",
+      "Address": "7134 Remmet Ave",
+      "lat": 34.199863,
+      "lng": -118.600133,
+      "HourlyCost": "$7",
+      "DailyCost": "$70",
+      "MonthlyCost": "N/A",
+      "Spaces": "19",
+      "Rating": 0,
+      "NumRating": 0,
+      "img": "https://www.parking.illinois.edu/sites/default/files/2020-07/maps-banner.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Gardner & Sunset Parking Lot",
+      "Address": "1451 Gardner St",
+      "lat": 34.0978,
+      "lng": -118.353,
+      "HourlyCost": "$3",
+      "DailyCost": "$30",
+      "MonthlyCost": "N/A",
+      "Spaces": "22",
+      "Rating": 0,
+      "NumRating": 0,
+      "img": "https://uknow.uky.edu/sites/default/files/styles/uknow_story_image/public/transcript-lot-1%20%282%29.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Baird & Gault Parking Lot",
+      "Address": "7120 Baird Ave",
+      "lat": 34.199747,
+      "lng": -118.537233,
+      "HourlyCost": "$8",
+      "DailyCost": "$50",
+      "MonthlyCost": "N/A",
+      "Spaces": "81",
+      "Rating": 0,
+      "NumRating": 0,
+      "img": "https://www.nps.gov/grca/planyourvisit/images/Lot-one-RV-at-VC.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+    },
+    {
+      "id": "10",
+      "title": "Canby & Sherman Way Parking Lot",
+      "Address": "7131 Canby Ave",
+      "lat": 34.199915,
+      "lng": -118.534965,
+      "HourlyCost": "$8",
+      "DailyCost": "$80",
+      "MonthlyCost": "N/A",
+      "Spaces": "62",
+      "Rating": 4,
+      "NumRating": 5,
+      "img": "https://nvmpaving.com/wp-content/uploads/2018/04/parking-lot-spaces-striping-and-painting-fairfax-va.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "body": "sadwa",
+      "parkingLotId": "1",
+      "id": 1
+    },
+    {
+      "body": "11dwqd",
+      "parkingLotId": "1",
+      "id": 2
+    },
+    {
+      "body": "asda",
+      "parkingLotId": "1",
+      "id": 3
+    },
+    {
+      "body": "nice",
+      "parkingLotId": "5",
+      "id": 4
+    }
+  ]
+}

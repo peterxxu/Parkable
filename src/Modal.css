@@ -1,0 +1,31 @@
+.custom-modal {
+    border-radius: 5px;
+    padding: 15px;
+
+    position:absolute;
+    top: 0;
+    right:0;
+    height:100%;
+    width: 25%;
+    
+    background-color: rgb(64, 64, 64);
+    color: white;
+
+    box-shadow: 10px 0px 30px #000;
+    text-align: center;
+  }
+
+#close-button {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 30px;
+    background-color: rgb(64, 64, 64);
+    color: white;
+    position: relative;
+    left: 0;
+}
+
+.modal-text {
+    margin-bottom: 30px;
+    text-decoration: none;
+}
