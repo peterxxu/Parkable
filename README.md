@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# Parkable React Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a parking lot finder with a rating and comment system. The appliation focuses on the frontend implementation, which fetches data from a mock api db.json.
 
-## Available Scripts
+## Implementation and features
 
-In the project directory, you can run:
+Packages and libraries involved: Google Maps API, Boostrap, react-router-dom, Icnoify, JSON Server
 
-### `npm start`
+Major features:
+	1. Homepage: an interactive Google Maps with markers indicating parking lot locations, also a sidebar containing parking lot information cards
+	2. Star rating and comment: For each parking lot, the user can leave a rating by clicking on star icons and also leave an optional comment for the parking lot. User rating and comments are stored in local db.json
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### To run the application
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Make sure react and json packages are installed and working properly.
 
-### `npm test`
+First run the local json server:
+`json-server --watch db.json`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Then run react in src folder:
+`npm start`
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Video demo link:
+https://usc.zoom.us/rec/play/tXIQ1pKRet-dZpTOeQ6k_WHaeN1bMPr07EngUg550nZVQ4FvQZJrhY7_QzmBZB8F7H6yCuhIsPlNy-VS.9nCx7NqKHfGaYcYx?autoplay=true&startTime=1670531771000
